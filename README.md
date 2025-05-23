@@ -1,2 +1,0 @@
-# KzScript
-Scripts
